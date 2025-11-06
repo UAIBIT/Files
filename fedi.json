@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "uaibit 🔺 ",
+  "welcome_message": "Seja bem-vindo à comunidade da Uaibit no Fedi!",
+  "fedi:pinned_message": "Vamos juntos gerar valor e conhecimento!",
+  "fedi:federation_icon_url": "https://uaibit.com.br/wp-content/uploads/2025/10/logo.png",
+  "default_matrix_rooms": "[\"!smtWOtwEukmzbWZJVv:m1.8fa.in\",\"!DtDzqYzAmdEZIqFyvc:m1.8fa.in\"]",
+  "fedi:fedimods": "[{\"id\":\"uaibit\",\"url\":\"https://uaibit.com.br/\",\"title\":\"UAIBIT\",\"imageUrl\":\"https://uaibit.com.br/wp-content/uploads/2025/10/logo.png\"}]"
+}
